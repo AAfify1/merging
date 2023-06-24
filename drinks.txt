@@ -3,3 +3,9 @@ Tea
 Coffee Mix
 Pepsi
 Fanta
+
+Burger
+Pizza
+Chipsy
+Molto
+Pasta
