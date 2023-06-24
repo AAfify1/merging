@@ -9,3 +9,5 @@ Pizza
 Chipsy
 Molto
 Pasta
+Cake
+Waffle
