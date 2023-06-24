@@ -3,3 +3,6 @@ Tea
 Coffee Mix
 Pepsi
 Fanta
+Coffee
+7UP
+CocaCola
